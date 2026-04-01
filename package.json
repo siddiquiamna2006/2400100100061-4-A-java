@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "labwork",
+=======
+  "name": "2400100100061-4-a-java",
+>>>>>>> d7760d25c6e20ca855b2c442247159dd9043a019
   "private": true,
   "version": "0.0.0",
   "type": "module",
